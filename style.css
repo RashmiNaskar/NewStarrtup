@@ -5,12 +5,7 @@ head, body{
     background: url("photo-1496181133206-80ce9b88a853.jpg") no-repeat center center fixed; 
     background-size: cover;
 }
-hr{
-    
-    background-color:rgb(209, 0, 199);
-    
-   
-}
+
 .btn{
     border-radius: 300px;
     
@@ -21,5 +16,11 @@ hr{
     border-color: cornflowerblue;
 }
 .buffer{
-    height:470px;
+    height:100px;
+}
+.container{
+    padding-top: 300px;
+}
+h1{
+    color: aliceblue;
 }
